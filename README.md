@@ -19,6 +19,6 @@ A block
 of code
 ```
 
-Or even a link to a brand new [website] (https://twitter.com/home?lang=fr)
+Or even a link to a brand new [website](https://twitter.com/home?lang=fr)
 
 
