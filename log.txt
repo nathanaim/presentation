@@ -1,0 +1,17 @@
+commit f3ef0de121b757d93e651d1927979e8f2d63343e
+Author: nathanaim <nathanaim@gmail.com>
+Date:   Tue Nov 16 18:28:09 2021 +0100
+
+    added .gitignore
+
+commit 6ebf3c9a6228eff36529b646dd69e1b2f137121c
+Author: nathanaim <nathanaim@gmail.com>
+Date:   Tue Nov 16 14:22:09 2021 +0100
+
+    This time I did not forget the second file!
+
+commit 708dc7817ff5dc16b555df4827d60470a8492029
+Author: nathanaim <nathanaim@gmail.com>
+Date:   Tue Nov 16 14:16:26 2021 +0100
+
+    Creating a first file
