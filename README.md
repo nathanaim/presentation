@@ -1,24 +1,7 @@
-# A proper README file
-## begins with a nice title
-### which gets smaller and smaller
+### A few things
 
-It may contain `some code`
+I am a student at Ecole Polytechnique and HEC Paris, interested in Data Science. <br/>
 
-- an
-- unordered
-- list
-
-1. or
-2. an
-3. ordered one
-
-There might even be
-
-```
-A block
-of code
-```
-
-Or even a link to a brand new [website](https://twitter.com/home?lang=fr)
+Please click [this link](https://medium.com/analytics-vidhya/mathematics-behind-roc-auc-interpretation-e4e6f202a015) to read an article I wrote about the subject. 
 
 
